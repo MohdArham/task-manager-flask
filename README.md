@@ -58,9 +58,16 @@ venv\Scripts\activate      # on Windows
 pip install -r requirements.txt
 ```
 
-### 4. Run the application
+### 4. Setup Database (First Time)
 ```
-python app.py
+flask db init
+flask db migrate -m "Initial migration"
+flask db upgrade
+```
+
+### 5. Run the application
+```
+python3 app.py
 ```
 
 You’ll see output similar to:
