@@ -9,3 +9,4 @@ data.db
 htmlcov/
 *.sqlite3
 .env.*
+.idea/

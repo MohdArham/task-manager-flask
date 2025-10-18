@@ -1,4 +1,4 @@
-**# Task Manager API
+# Task Manager API
 
 A **Flask-based Task Manager REST API** featuring **JWT authentication**, **SQLite database**, and **Swagger documentation** for easy testing and integration.
 
@@ -42,7 +42,7 @@ task-manager-flask/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/mohd-arham/task-manager-flask.git
+git clone https://github.com/MohdArham/task-manager-flask.git
 cd task-manager-flask
 ```
 
