@@ -1,0 +1,11 @@
+Flask>=2.0
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+marshmallow
+marshmallow-sqlalchemy
+Flasgger
+pytest
+pytest-flask
+python-dotenv
+Werkzeug
